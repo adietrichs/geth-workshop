@@ -6,6 +6,7 @@
 - [go-ethereum](https://github.com/ethereum/go-ethereum)
 - [EIP-3074](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-3074.md)
 - [Target Commits](https://github.com/adietrichs/go-ethereum/pull/1/commits)
+- [Puxi Remix (EIP-3074 compatible)](https://remix.puxi.quilt.link/#version=builtin)
 
 ## Creating a Local Geth Testnet
 
