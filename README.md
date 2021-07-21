@@ -5,6 +5,7 @@
 - [event details](https://www.notion.so/Geth-Workshop-Paris-July-21-2021-6b2ab11b7ce7406ab30cefb24ea25ec2)
 - [go-ethereum](https://github.com/ethereum/go-ethereum)
 - [EIP-3074](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-3074.md)
+- [Target Commits](https://github.com/adietrichs/go-ethereum/pull/1/commits)
 
 ## Creating a Local Geth Testnet
 
